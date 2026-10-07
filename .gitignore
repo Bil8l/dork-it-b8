@@ -1,1 +1,4 @@
+# local-only: QA previews and the OG-card source/renderer
 media/render_preview/
+media/banner-og.svg
+media/render_og.py
