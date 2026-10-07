@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 640" width="1280" height="640" role="img" aria-labelledby="og-title og-desc">
+  <title id="og-title">Dork it B8</title>
+  <desc id="og-desc">Social card for the Dork it B8 userscript: a Google dorking assistant with 100 curated dorks and sweep mode.</desc>
+  <rect width="1280" height="640" fill="#0f0f14"/>
+  <text x="1216" y="64" text-anchor="end" font-family="Consolas, monospace" font-size="16" fill="#1b1b26">site:*.[domain] inurl:api | inurl:dev</text>
+  <text x="64" y="596" font-family="Consolas, monospace" font-size="16" fill="#1b1b26">intitle:"index of" "backup"</text>
+  <text x="128" y="392" font-family="'Segoe UI', sans-serif" font-size="210" fill="#bb86fc">&#x283F;</text>
+  <text x="400" y="330" font-family="'Segoe UI', sans-serif" font-size="76" font-weight="700" letter-spacing="-1.5" fill="#ffffff">DORK IT B8</text>
+  <rect x="406" y="358" width="110" height="7" rx="3.5" fill="#bb86fc"/>
+  <text x="406" y="416" font-family="'Segoe UI', sans-serif" font-size="20" fill="#999999">A Google dorking assistant that lives in your search bar.</text>
+  <text x="406" y="452" font-family="Consolas, monospace" font-size="14" fill="#8a8f98">100 curated dorks &#183; sweep mode &#183; favorites &amp; custom dorks &#183; zero network calls</text>
+  <g font-family="Consolas, monospace" font-size="12" fill="#999999" text-anchor="middle">
+    <rect x="406" y="520" width="150" height="32" rx="16" fill="#14141a" stroke="#2a2a2a"/>
+    <text x="481" y="540" letter-spacing="1">TAMPERMONKEY</text>
+    <rect x="568" y="520" width="150" height="32" rx="16" fill="#14141a" stroke="#2a2a2a"/>
+    <text x="643" y="540" letter-spacing="1">14 CATEGORIES</text>
+    <rect x="730" y="520" width="126" height="32" rx="16" fill="#14141a" stroke="#2a2a2a"/>
+    <text x="793" y="540" letter-spacing="1">100% LOCAL</text>
+  </g>
+</svg>

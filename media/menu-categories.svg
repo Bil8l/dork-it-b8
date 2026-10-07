@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 356" width="400" role="img" aria-labelledby="mc-title mc-desc">
+  <title id="mc-title">Dork it B8 category menu</title>
+  <desc id="mc-desc">The script's dark menu listing Recent, Favorites, Custom and the built-in dork categories with item counts.</desc>
+  <defs>
+    <filter id="mc-shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="10" stdDeviation="14" flood-color="#000000" flood-opacity="0.45"/>
+    </filter>
+    <linearGradient id="mc-fade" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#111111" stop-opacity="0"/>
+      <stop offset="1" stop-color="#111111" stop-opacity="1"/>
+    </linearGradient>
+  </defs>
+  <rect x="0.5" y="0.5" width="299" height="355" rx="8" fill="#111111" stroke="#2a2a2a" filter="url(#mc-shadow)"/>
+  <rect x="1" y="1" width="298" height="40" rx="7" fill="#1a1a1a"/>
+  <rect x="1" y="28" width="298" height="13" fill="#1a1a1a"/>
+  <text x="14" y="25" font-family="'Segoe UI', sans-serif" font-size="11" letter-spacing="1" fill="#999999">&#x283F; DORK IT B8</text>
+  <text x="286" y="25" text-anchor="end" font-family="'Segoe UI', sans-serif" font-size="12" fill="#666666">&#x2715;</text>
+
+  <!-- rows -->
+  <g font-family="'Segoe UI', sans-serif">
+    <text x="14" y="60" font-size="13" fill="#bb86fc">Recent</text>
+    <text x="14" y="91" font-size="13" fill="#bb86fc">Favorites</text>
+    <text x="14" y="122" font-size="13" fill="#bb86fc">Custom</text>
+    <text x="14" y="153" font-size="13" fill="#cccccc">Operators</text>
+    <text x="14" y="184" font-size="13" fill="#cccccc">Recon</text>
+    <text x="14" y="215" font-size="13" fill="#cccccc">Footholds</text>
+    <text x="14" y="246" font-size="13" fill="#cccccc">Sensitive Dirs</text>
+    <text x="14" y="277" font-size="13" fill="#cccccc">Vulnerable Files</text>
+    <text x="14" y="308" font-size="13" fill="#cccccc">Vulnerable Servers</text>
+    <text x="14" y="339" font-size="13" fill="#cccccc">Error Messages</text>
+  </g>
+  <g text-anchor="middle" font-family="'Segoe UI', sans-serif" font-size="15" fill="#666666">
+    <text x="277" y="61">&#x203A;</text>
+    <text x="277" y="92">&#x203A;</text>
+    <text x="277" y="123">&#x203A;</text>
+    <text x="277" y="154">&#x203A;</text>
+    <text x="277" y="185">&#x203A;</text>
+    <text x="277" y="216">&#x203A;</text>
+    <text x="277" y="247">&#x203A;</text>
+    <text x="277" y="278">&#x203A;</text>
+    <text x="277" y="309">&#x203A;</text>
+    <text x="277" y="340">&#x203A;</text>
+  </g>
+  <!-- count chips -->
+  <g font-family="'Segoe UI', sans-serif" font-size="9" fill="#999999" text-anchor="middle">
+    <rect x="234" y="48" width="20" height="15" rx="7.5" fill="#1a1a1a"/><text x="244" y="58.5">3</text>
+    <rect x="228" y="79" width="20" height="15" rx="7.5" fill="#1a1a1a"/><text x="238" y="89.5">7</text>
+    <rect x="228" y="110" width="20" height="15" rx="7.5" fill="#1a1a1a"/><text x="238" y="120.5">2</text>
+    <rect x="228" y="141" width="26" height="15" rx="7.5" fill="#1a1a1a"/><text x="241" y="151.5">12</text>
+    <rect x="228" y="172" width="20" height="15" rx="7.5" fill="#1a1a1a"/><text x="238" y="182.5">6</text>
+    <rect x="228" y="203" width="20" height="15" rx="7.5" fill="#1a1a1a"/><text x="238" y="213.5">8</text>
+    <rect x="228" y="234" width="20" height="15" rx="7.5" fill="#1a1a1a"/><text x="238" y="244.5">8</text>
+    <rect x="228" y="265" width="20" height="15" rx="7.5" fill="#1a1a1a"/><text x="238" y="275.5">9</text>
+    <rect x="228" y="296" width="20" height="15" rx="7.5" fill="#1a1a1a"/><text x="238" y="306.5">8</text>
+    <rect x="228" y="327" width="20" height="15" rx="7.5" fill="#1a1a1a"/><text x="238" y="337.5">6</text>
+  </g>
+  <g stroke="#1d1d1d">
+    <line x1="1" y1="71" x2="299" y2="71"/>
+    <line x1="1" y1="102" x2="299" y2="102"/>
+    <line x1="1" y1="133" x2="299" y2="133"/>
+    <line x1="1" y1="164" x2="299" y2="164"/>
+    <line x1="1" y1="195" x2="299" y2="195"/>
+    <line x1="1" y1="226" x2="299" y2="226"/>
+    <line x1="1" y1="257" x2="299" y2="257"/>
+    <line x1="1" y1="288" x2="299" y2="288"/>
+    <line x1="1" y1="319" x2="299" y2="319"/>
+  </g>
+  <rect x="1" y="302" width="298" height="53" fill="url(#mc-fade)"/>
+</svg>
