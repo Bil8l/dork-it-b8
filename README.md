@@ -79,9 +79,6 @@ All of it is standard GHDB-style public knowledge. What the script adds is havin
 
 The script makes no network requests of its own. It only reads and writes the Google page you are already on. Favorites, recents and custom dorks live in `localStorage` under the `db8.` prefix. Sweep state lives in `sessionStorage` for the current tab. Uninstalling the script or clearing site data wipes everything.
 
-## Contributing
-
-Found a dork that earns its place, or one that stopped working? Open an issue or a pull request against `DORK_DB` at the top of `dork-it-b8.user.js`. One key, one description, a sensible category.
 
 ## License
 
